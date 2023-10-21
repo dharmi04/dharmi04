@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmi Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently exploring **Cyber Security**
 
 - 💬 Ask me about **React, Next.js**
 
