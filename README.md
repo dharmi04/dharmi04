@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://dharmi-dharmi04.vercel.app/](https://dharmi-dharmi04.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dharmi-patel.vercel.app/](https://dharmi-patel.vercel.app/)
 
 - 💬 Ask me about **React, Next.js**
 
