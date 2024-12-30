@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharmi Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
-
 - 👨‍💻 All of my projects are available at [https://dharmi-patel.vercel.app/](https://dharmi-patel.vercel.app/)
 
 - 💬 Ask me about **React, Next.js**
